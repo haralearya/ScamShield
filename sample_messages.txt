@@ -1,0 +1,10 @@
+Sample test messages
+
+HIGH-RISK EXAMPLE:
+Your bank account will be blocked today. Verify your account immediately by sending your OTP to complete KYC.
+
+PRIZE EXAMPLE:
+Congratulations! You won a cash reward. Click the link immediately to claim your prize.
+
+LOW-RISK EXAMPLE:
+Your college meeting is scheduled for tomorrow at 10 AM. Please bring your project report.
